@@ -18,6 +18,7 @@ This page is Ali Kaan Yakıcı's page.
 ### -PART 2- ###
 
 ## You can reach the Project Part 2 Report with code from the link below. (HTML)
+Some warnings about can not be erased; therefore, some part of html file is filled with warnings. You can pass these parts.
 [Report with Code](part2.html)
 
 
