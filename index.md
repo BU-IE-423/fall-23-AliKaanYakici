@@ -22,5 +22,5 @@ This page is Ali Kaan Yakıcı's page.
 
 
 ## You can reach the Project Part 2 code from the link below. (IPYNB)
-[Jupyter Notebook Example](part2.ipynb)
+[Jupyter Notebook Example](Part2.ipynb)
 
