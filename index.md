@@ -1,13 +1,20 @@
 This page is Ali Kaan Yakıcı's page.
 
-You can reach Project Part 1 with this links:
-[Report with Code](https://bu-ie-423.github.io/fall-23-YusufKAvcakar/Part1.pdf)
+### -PART 1- ###
+
+## You can reach the Project Part 1 Report with code from the link below. (HTML)
 [Report with Code](Part1.html)
 
-You can reach our code with this link:
-[Jupyter Notebook Example HTML](423_proje.html)
+## You can reach the Project Part 1 Report with code from the link below. (PDF)
+[Report with Code](Part1.pdf)
 
-You can reach Project Part 2 with this link:
+## You can reach the Project Part 1 Report code from the link below. (IPYNB)
+[Jupyter Notebook Example HTML](423_proje.ipynb)
+
+
+### -PART 2- ###
+
+## You can reach the Project Part 2 Report with code from the link below. (HTML)
 [Report with Code](Part2.html)
 
 You can reach our code with this link:
