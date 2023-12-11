@@ -18,9 +18,9 @@ This page is Ali Kaan Yakıcı's page.
 ### -PART 2- ###
 
 ## You can reach the Project Part 2 Report with code from the link below. (HTML)
-[Report with Code](Part2.html)
+[Report with Code]()
 
 
 ## You can reach the Project Part 2 code from the link below. (IPYNB)
-[Jupyter Notebook Example](Part2.ipynb)
+[Jupyter Notebook Example]()
 
