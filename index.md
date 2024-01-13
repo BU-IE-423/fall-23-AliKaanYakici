@@ -29,7 +29,7 @@ Some warnings about can not be erased; therefore, some part of html file is fill
 ### -PART 3- ###
 
 ## You can reach the Project Part 3 Report from the link below. (PDF)
-[Report with Code](IE423Part3.pdf)
+[Report with Code](https://bu-ie-423.github.io/fall-23-AltayBasaran/IE423Part3.pdf)
 
 Some warnings about can not be erased; therefore, some part of html file is filled with warnings. You can pass these parts.
 ## You can reach the Project Part 3 code from the link below. (IPYNB)
