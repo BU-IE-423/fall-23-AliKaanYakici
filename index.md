@@ -25,3 +25,19 @@ Some warnings about can not be erased; therefore, some part of html file is fill
 ## You can reach the Project Part 2 code from the link below. (IPYNB)
 [Jupyter Notebook Example](part2.ipynb)
 
+
+### -PART 3- ###
+
+## You can reach the Project Part 3 Report from the link below. (PDF)
+[Report with Code](https://github.com/BU-IE-423/fall-23-AliKaanYakici/blob/eb34b30815a771a04ea339fb1c3bcff5b0a74cc5/IE423%20Part%203.pdf)
+
+## You can reach the Project Part 3 code from the link below. (IPYNB)
+[Jupyter Notebook Example](part3.ipynb)
+
+
+
+
+
+
+
+
